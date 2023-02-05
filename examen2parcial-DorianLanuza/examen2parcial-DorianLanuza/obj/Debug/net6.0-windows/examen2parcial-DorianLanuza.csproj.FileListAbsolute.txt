@@ -1,0 +1,37 @@
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.exe
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.deps.json
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.runtimeconfig.json
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.dll
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.pdb
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.AssemblyReference.cache
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial_DorianLanuza.Form1.resources
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.GenerateResource.cache
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.AssemblyInfoInputs.cache
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.AssemblyInfo.cs
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.CoreCompileInputs.cache
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.dll
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\refint\examen2parcial-DorianLanuza.dll
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.pdb
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.genruntimeconfig.cache
+C:\Users\CCBB-29\Desktop\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\ref\examen2parcial-DorianLanuza.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.AssemblyReference.cache
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial_DorianLanuza.Form1.resources
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.GenerateResource.cache
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.AssemblyInfoInputs.cache
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.AssemblyInfo.cs
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.CoreCompileInputs.cache
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\refint\examen2parcial-DorianLanuza.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.pdb
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.exe
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.deps.json
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.runtimeconfig.json
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\examen2parcial-DorianLanuza.pdb
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.genruntimeconfig.cache
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\ref\examen2parcial-DorianLanuza.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\bin\Debug\net6.0-windows\SpreadsheetLight.dll
+E:\DATA Dorian\Examen Programacion\examen2parcial-DorianLanuza\examen2parcial-DorianLanuza\obj\Debug\net6.0-windows\examen2parcial-DorianLanuza.csproj.CopyComplete
